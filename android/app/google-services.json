@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072316874115",
+    "project_id": "photos-8ae01",
+    "storage_bucket": "photos-8ae01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072316874115:android:22ca527c15b6b69ce28ab6",
+        "android_client_info": {
+          "package_name": "com.example.callender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072316874115-2ohp4dq119dkh1mbbv4455m713r0gs5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjTuaBgBveZIKZRCwUtlIW1L5JMLBdK-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072316874115-16moguvd3q73lkfoflb5m5pe1ojs6r89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
